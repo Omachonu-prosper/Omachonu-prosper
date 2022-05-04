@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omachonu-prosper
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Python and Flask
+- 🌱 I’m currently learning MERN stack and making wonderful projects with it
 <!-- - 💞️  -->
 - 📫 How to reach me +2348065297517
 
