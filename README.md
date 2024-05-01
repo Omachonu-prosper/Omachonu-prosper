@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omachonu-prosper
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning PHP and MySQL and making wonderful projects with them
+- 👀 I’m interested in Softwre Engineering and devops
+- 🌱 I’m currently learning AWS and FastAPI and building wonderful projects with them
 <!-- - 💞️  -->
 - 📫 How to reach me +2348065297517
 
